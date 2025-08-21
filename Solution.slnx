@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/docs/" />
+  <Folder Name="/eng/" />
+  <Folder Name="/src/">
+    <Project Path="src\DigitalBibleLibrary\SvetoPismo.Providers.Content.DigitalBibleLibrary.csproj" Type="Classic C#" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>
